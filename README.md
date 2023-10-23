@@ -1,6 +1,6 @@
 # Joe Baarath
 ### About Me
-Exploring all the facets of programming that interests me, namely in Computer Vision, XR Development, Game Development, Web Development! 
+Exploring all the facets of programming that fascinate me, namely in Computer Vision, XR Development, Game Development, Web Development! 
 
 ## GitHub Stats
 
