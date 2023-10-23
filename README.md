@@ -1,4 +1,15 @@
-### Hi there 👋
+# Joe Baarath
+### About Me
+Exploring all the facets of programming that interests me, namely in Computer Vision, XR Development, Game Development, Web Development! 
+
+## GitHub Stats
+
+<a href="https://github.com/joebaarath/joebaarath">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joebaarath&hide=shaderlab,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/joebaarath/joebaarath">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joebaarath&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joe Baarath's GitHub Stats" />
+</a>
 
 <!--
 **joebaarath/JoeBaarath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
