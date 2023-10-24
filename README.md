@@ -1,6 +1,15 @@
-# Joe Baarath
-### About Me
-Exploring all the facets of programming that fascinate me, namely in Computer Vision, XR Development, Game Development, Web Development! 
+![joebaarath](https://github.com/joebaarath/JoeBaarath/assets/29447484/df893a78-60ae-4d79-be59-b0809310f597)
+
+## About Me
+Exploring all the facets of programming that fascinate me: 
+<ul>
+  <li>Computer Vision</li>
+  <li>XR Development</li>
+  <li>Game Development</li>
+  <li>Web Development</li>
+</ul>
+
+Portfolio: [joebaarath.github.io ](https://joebaarath.github.io)
 
 ## GitHub Stats
 
