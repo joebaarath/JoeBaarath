@@ -1,4 +1,4 @@
-![joebaarath](https://github.com/joebaarath/JoeBaarath/assets/29447484/f04b6045-3846-4ea9-8a38-621c4f6f5238)
+![joebaarath](https://github.com/joebaarath/JoeBaarath/assets/29447484/d956b133-2a76-4b5f-9bf3-bfe976696b10)
 
 ## About Me
 Exploring all the facets of programming that fascinate me: 
