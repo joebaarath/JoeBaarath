@@ -1,15 +1,19 @@
 ![joebaarath](https://github.com/joebaarath/JoeBaarath/assets/29447484/d956b133-2a76-4b5f-9bf3-bfe976696b10)
 
 ## About Me
-Exploring all the facets of programming that fascinate me: 
+Designing a more meaningful world through product management expertise, software engineering foundations, and data-driven statistical analysis.
+
+My interest spans across:
 <ul>
+  <li>AI/ML Engineering</li>
+  <li>Product Managment & Delivery</li>
   <li>Computer Vision</li>
-  <li>XR Development</li>
-  <li>Game Development</li>
+  <li>Design Thinking</li>
   <li>Web Development</li>
+  <li>XR/VR/AR Development</li>
+  <li>Game Development</li>
 </ul>
 
-Portfolio: [joebaarath.github.io ](https://joebaarath.github.io)
 
 ## GitHub Stats
 
